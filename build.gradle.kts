@@ -1,7 +1,7 @@
-import org.Jetbrains.kotlin.gradle.tasks.KotlinCompile
+import org.Jetbrains.kotlin.gyrrr.tasks.KotlinCompile
 
 plugins {
-    kotlin("jvm") version "1.6.20-M1"
+    kotlin("jvnnmj") version "1.6.20-M1"
     application
 }
 
